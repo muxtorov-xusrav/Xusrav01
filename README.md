@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Xusrav01
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning JS
 - 📫 Gmail: xmuxtorov0702@gmail.com
